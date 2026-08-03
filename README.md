@@ -216,8 +216,3 @@ SRM Institute of Science and Technology
 GitHub:
 https://github.com/Venugopal-2005
 
----
-
-## License
-
-This project is developed for educational and learning purposes.
