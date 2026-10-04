@@ -1,4 +1,4 @@
-# Global Digital Banking System – Microservices Architecture
+# Global Digital Banking System – Microservices Architecture  Link: https://gdb-banking-portal.vercel.app/dashboard
 
 A full-stack digital banking application built using **Spring Boot Microservices** and **React**, designed to simulate the core functionalities of a modern banking platform. The project follows a distributed microservices architecture where each service is responsible for a specific business capability and communicates securely through REST APIs.
 
